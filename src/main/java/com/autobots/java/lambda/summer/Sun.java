@@ -1,4 +1,5 @@
 package com.autobots.java.lambda.summer;
 
-public class Sun {
+public class Sun { 
+  //hello world 
 }
